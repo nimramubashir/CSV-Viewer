@@ -1,1 +1,1 @@
-source streamlitapp/bin/activate 
+streamlit==1.36.0
